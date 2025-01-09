@@ -1,0 +1,7 @@
+extract*
+repack*
+out_*
+*_output.txt
+*.nds
+*.xdelta
+.DS_Store
