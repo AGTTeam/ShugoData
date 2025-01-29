@@ -1,0 +1,3 @@
+ＬＲ：キャラ表情切り替え=L/R: Change character expression
+上下：音声切り替え　　　Ａ：音声再生=Up/Down: Change audio　  A: Play audio
+左右：キャラ切り替え　　Ｂ：モード終了=Left/Right: Change character  　B: Quit
