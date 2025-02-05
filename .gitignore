@@ -6,3 +6,6 @@ out_*
 *.xdelta
 .DS_Store
 fontdata.bin
+*.mods
+*.avi
+*.wav
