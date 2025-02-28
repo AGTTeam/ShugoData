@@ -953,7 +953,7 @@ $c2（やばい！　どうしよ～|　ガッカリさせちゃったよ～！�
 そう、あなたの永遠#sえいえん#eのライバル！　|山吹沙綾#sやまぶきさあや#eですわ～！=Yes, it's your eternal rival, Saaya Yamabuki~!
 だから～=Not this again～
 え？　あの人#sひと#e、先輩#sせんぱい#eの|永遠#sえいえん#eのライバルなんですか……？=Huh? Senpai, you have a rival?
-そのことは、気#sき#eにしなくていいから=You don't have to worry about her.
+そのことは、気#sき#eにしなくていいから=Just ignore that detail...
 日奈森#sひなもり#eさん|そこでなにしていらっしゃるの？=Hinamori-san, what are you doing over here?
 なにしてるって……=That's...
 あら？|そちらにいらっしゃるのは=Oh? Isn't that...
@@ -961,8 +961,8 @@ $c2（やばい！　どうしよ～|　ガッカリさせちゃったよ～！�
 ち～っす='E~llo!
 なぜ|日奈森#sひなもり#eさんとご一緒#sいっしょ#eなんですの？=What are you doing together, Hinamori-san?
 それは、その……=Well, you see...
-さては、日奈森#sひなもり#eさん！|わたくし、山吹沙綾#sやまぶきさあや#eをさしおいて=Don't tell me! Are you planning to make your debut as a model
-モデルデビューを|なさるおつもりですわね？=before me, Saaya Yamabuki!?
+さては、日奈森#sひなもり#eさん！|わたくし、山吹沙綾#sやまぶきさあや#eをさしおいて=Don't tell me...
+モデルデビューを|なさるおつもりですわね？=Are you planning to make your debut as a model before me, Saaya Yamabuki!?
 いや、違#sちが#eうけど=No, listen--
 おっほほほ～！！|よ～くも、そんな発想#sはっそう#eが=Ooooohohoho!!
 お生#sう#eまれになりますわね～=How positively bold you are! 
@@ -970,7 +970,7 @@ $c2（やばい！　どうしよ～|　ガッカリさせちゃったよ～！�
 この美#sび#eに満#sみ#eち足#sた#eりた|わたくしを前#sまえ#eにして=To try something like that in front of me, a beacon of beauty and grace,
 ちゃんちゃらおかしいですわ～|おっほほほ～！=How ridiculously absurd～|Ohohoho!
 まったく聞#sき#eいてないし……=She's not listening to me at all...
-あむ、これ以上関#sいじょうかか#eわるとめんどう|行#sい#eこう=Amu, it's best not to get involved. Let's go.
+あむ、これ以上関#sいじょうかか#eわるとめんどう|行#sい#eこう=Amu, it's best not to get involved.|Let's go.
 そうだね|抜#sぬ#eき足#sあし#e、差#sさ#eし足#sあし#e、忍#sしの#eび……=You're right. Let's sneak off while we have the chance...
 お待#sま#eちなさい！=Hold it right there!
 やば！=Oh no!
@@ -2350,7 +2350,7 @@ $c2（なーんて、いっちゃった～）$c0=$c2(Hee hee hee~)$c0
 無理#sむり#eもないですぅ|唯世#sただせ#eくんとデートですから～=Well, she's got a date with Tadase-kun after all～
 でも、そろそろ服#sふく#eを決#sき#eめないと……=But if she doesn't decide on an outfit soon...
 え……|えーっ！　もうこんな時間#sじかん#e！=...Huh!? How did it get so late!?
-どーしよーっ！=What do I do!?
+どーしよーっ！=What should I do!?
 しゅっぱ～つ！=Off we go!
 ハァ、ハァ、ハァ、間#sま#eにあった～=*Huff, puff...*|Looks like I made it in time～
 唯世#sただせ#eくんはまだ来#sき#eてないね=Tadase-kun isn't here yet.
@@ -3108,7 +3108,7 @@ $c2（へえ～、意外#sいがい#eとロマンチックな|　とこもある
 うん、それがね、実#sじつ#eは昨日#sきのう#e|理事長#sりじちょう#eに#r♪#sウタ#eたまにまつわる=Yeah. Actually, it's thanks to the chairman, 
 おとぎ話#sばなし#eを聞#sき#eいたんだ=who told me a fairy tale related to ♪-Eggs.
 #r♪#sウタ#eたまのおとぎ話#sばなし#e……？=A fairy tale...?##choice ほんとうかな～？・なにか関係ありそう
-おとぎ話#sばなし#eって……|いくら唯世#sただせ#eくんでも……=That doesn't seem like a reliable source...
+おとぎ話#sばなし#eって……|いくら唯世#sただせ#eくんでも……=It doesn't seem like a reliable source...
 事件#sじけん#eと関係#sかんけい#eあると思#sおも#eって|すぐにあむちゃんに=I thought it might help you,
 伝#sつた#eえたかったんだけど……=so I wanted to tell you right away...
 今度#sこんど#eの方#sほう#eが良#sよ#eかった……かな？=Maybe I should have left it for another time...
